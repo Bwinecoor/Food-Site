@@ -1,0 +1,67 @@
+.navtext {
+    margin: auto;
+}
+
+.nav1 {
+    background-image: url(roof.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-bottom: 5px solid #3b1a02;
+}
+
+.nav2 {
+    background-image: url(roof.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-bottom: 5px solid #3b1a02;
+}
+
+.googlefont1 {
+    font-family: 'Russo One', sans-serif;
+}
+
+.googlefont2 {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 22.5px;
+    background: rgba(226, 226, 226, 0.75);
+    width: 35%;
+    margin: auto;
+    border: 3px solid #3b1a02;
+}
+
+.googlefont2:hover {
+    background: rgba(255, 255, 255, 0.8);
+    transition: .15s;
+}
+
+.ttext {
+    color: #e8b101;
+    font-size: 60px;
+}
+
+.ingtopb {
+    background-image: url(background2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border: 3px solid #3b1a02;
+    width: 60%;
+    text-align: center;
+}
+
+.number {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 45px;
+    background: rgba(226, 226, 226, 0.75);
+    width: 8%;
+    margin: auto;
+    border: 3px solid #3b1a02;
+}
+
+.number:hover {
+    width: 20%;
+    background: rgba(255, 255, 255, 0.8);
+    transition: .15s;
+}
